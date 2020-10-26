@@ -28,7 +28,7 @@ def debate(debate_num):
 def election_sim():
     global player_name
     global other_name
-    print("WELCOME TO ELECTION SIMULATOR VERY GOOD BEST SUPER DUPER AMERICA STYLE")
+    print("WELCOME TO ELECTION SIMULATOR: AMERICAN STYLE")
     player_name = input("What is your name: ")
     other_name = input("Who are you faceing off against: ")
     inp = None
